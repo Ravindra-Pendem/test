@@ -1,2 +1,2 @@
 # test
-testing the git hub repsitory
+testing the git hub repository
